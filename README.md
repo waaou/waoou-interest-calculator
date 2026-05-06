@@ -1,3 +1,3 @@
 # waoou-interest-calculator
 demo
-add line from test-branch
+A simple interest calculator project for demonstrating basic calculations.
